@@ -7,27 +7,27 @@
 
 A computer is a device or system that includes:
 
-![](Pasted%20image%2020230116140418.png)
+![](images/Pasted%20image%2020230116140418.png)
 
-![](Pasted%20image%2020230116140555.png)
+![](images/Pasted%20image%2020230116140555.png)
 
-![](Pasted%20image%2020230116140646.png)
+![](images/Pasted%20image%2020230116140646.png)
 
-![](Pasted%20image%2020230116140708.png)
+![](images/Pasted%20image%2020230116140708.png)
 
 ### Functions of computing
 
-![](Pasted%20image%2020230116140805.png)
+![](images/Pasted%20image%2020230116140805.png)
 
 ### Benefits of computing
 
-![](Pasted%20image%2020230116141007.png)
+![](images/Pasted%20image%2020230116141007.png)
 
-![](Pasted%20image%2020230116141104.png)
+![](images/Pasted%20image%2020230116141104.png)
 
 ## Common Computing Devices and Platforms
 
-![](Pasted%20image%2020230116141243.png)
+![](images/Pasted%20image%2020230116141243.png)
 
 ### Stationary computing devices
 
@@ -96,11 +96,11 @@ Use operating systems that support distributed workloads:
 - Communicate via Wi-Fi, Bluetooth, NFC, Zigbee, and other protocols.
 - Software updatable, but generally no hardware upgrades.
 
-![](Pasted%20image%2020230116143653.png)
+![](images/Pasted%20image%2020230116143653.png)
 
 ### IoT devices: categorized
 
-![](Pasted%20image%2020230116143753.png)
+![](images/Pasted%20image%2020230116143753.png)
 
 ## Understanding How Computers Talk
 
@@ -108,25 +108,25 @@ Use operating systems that support distributed workloads:
 
 A system of symbols that represent types of numbers.
 
-![](Pasted%20image%2020230116144022.png)
+![](images/Pasted%20image%2020230116144022.png)
 
 ### Notational systems – decimal
 
-![](Pasted%20image%2020230116144250.png)
+![](images/Pasted%20image%2020230116144250.png)
 
 ### Notational systems – binary
 
-![](Pasted%20image%2020230116144355.png)
+![](images/Pasted%20image%2020230116144355.png)
 
-![](Pasted%20image%2020230116144516.png)
+![](images/Pasted%20image%2020230116144516.png)
 
 ### Convert to decimal to binary
 
- ![](Pasted%20image%2020230116144650.png)
+ ![](images/Pasted%20image%2020230116144650.png)
 
 ### Convert binary to decimal
 
-![](Pasted%20image%2020230116144804.png)
+![](images/Pasted%20image%2020230116144804.png)
 
 ### Notational Systems – hexadecimal
 
@@ -134,7 +134,7 @@ A system of symbols that represent types of numbers.
 - Enables compact notation for large numbers
 - Used for **MAC** addresses, colors, IP addresses, and memory addresses
 
-![](Pasted%20image%2020230206121207.png)
+![](images/Pasted%20image%2020230206121207.png)
 
 ### Convert hex to binary
 
@@ -143,13 +143,13 @@ A system of symbols that represent types of numbers.
 3) String (concatenate) all the binary digits together from left to right.
 4) Discard any leading zeros at the left of the concatenated number.
 
-![](Pasted%20image%2020230206121759.png)
+![](images/Pasted%20image%2020230206121759.png)
 
 **The result is 100100011010.**
 
 ### Data Types
 
-![](Pasted%20image%2020230206122044.png)
+![](images/Pasted%20image%2020230206122044.png)
 
 ### Character Types
 
@@ -163,7 +163,7 @@ American Standard Code for Information Interchange:
 	+ Expanded to 8-bytes representing another 256 characters.
 	+ Full charts are available online.
 
-![](Pasted%20image%2020230206122543.png)
+![](images/Pasted%20image%2020230206122543.png)
 
 #### Unicode
 
@@ -174,7 +174,7 @@ Unicode includes ASCII and other characters from languages around the world, as 
 	+ Commonly formatted as **U+hhhh**, known as "code points", where **hhhh** is character hexadecimal value.
 	+ Conversion services are available online.
 
-![](Pasted%20image%2020230206122836.png)
+![](images/Pasted%20image%2020230206122836.png)
 
 ## An Introduction to Operating Systems
 
@@ -189,7 +189,7 @@ Operating systems consist of standardized code for:
 
 ### Operating system history
 
- ![](Pasted%20image%2020230206133349.png)
+ ![](images/Pasted%20image%2020230206133349.png)
 
 #### The first generation (1945-1955)
 
@@ -260,4 +260,4 @@ Four methods of logging into Windows
 
 ### Using Keyboard Shortcuts
 
-![](Pasted%20image%2020230206140708.png)
+![](images/Pasted%20image%2020230206140708.png)
