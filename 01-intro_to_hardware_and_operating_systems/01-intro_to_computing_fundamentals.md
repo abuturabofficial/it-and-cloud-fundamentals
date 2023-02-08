@@ -1,3 +1,46 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Introduction to Computing Fundamentals and Operating Systems](#introduction-to-computing-fundamentals-and-operating-systems)
+  - [Introduction to Computing Fundamentals](#introduction-to-computing-fundamentals)
+    - [Functions of computing](#functions-of-computing)
+    - [Benefits of computing](#benefits-of-computing)
+  - [Common Computing Devices and Platforms](#common-computing-devices-and-platforms)
+    - [Stationary computing devices](#stationary-computing-devices)
+    - [Workstations](#workstations)
+    - [Servers: functions](#servers-functions)
+    - [Servers: hardware support](#servers-hardware-support)
+    - [Servers: operating systems](#servers-operating-systems)
+    - [Stationary devices: gaming consoles](#stationary-devices-gaming-consoles)
+    - [Mobile devices](#mobile-devices)
+    - [IoT devices](#iot-devices)
+    - [IoT devices: categorized](#iot-devices-categorized)
+  - [Understanding How Computers Talk](#understanding-how-computers-talk)
+    - [Notational systems defined](#notational-systems-defined)
+    - [Notational systems – decimal](#notational-systems--decimal)
+    - [Notational systems – binary](#notational-systems--binary)
+    - [Convert to decimal to binary](#convert-to-decimal-to-binary)
+    - [Convert binary to decimal](#convert-binary-to-decimal)
+    - [Notational Systems – hexadecimal](#notational-systems--hexadecimal)
+    - [Convert hex to binary](#convert-hex-to-binary)
+    - [Data Types](#data-types)
+    - [Character Types](#character-types)
+      - [ASCII](#ascii)
+      - [Unicode](#unicode)
+  - [An Introduction to Operating Systems](#an-introduction-to-operating-systems)
+    - [Operating system basics](#operating-system-basics)
+    - [Operating system history](#operating-system-history)
+      - [The first generation (1945-1955)](#the-first-generation-1945-1955)
+      - [The second generation (1955-1965)](#the-second-generation-1955-1965)
+      - [The third generation (1965-1980)](#the-third-generation-1965-1980)
+      - [The fourth generation (1980 to now)](#the-fourth-generation-1980-to-now)
+  - [Getting Started with Microsoft Windows](#getting-started-with-microsoft-windows)
+    - [Logging into Windows](#logging-into-windows)
+    - [Using Keyboard Shortcuts](#using-keyboard-shortcuts)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Introduction to Computing Fundamentals and Operating Systems
 
 - The global IT spending on devices, including PCs, tablets, mobile phones, printers, as well as data center systems, enterprise software, and communication services came to **4.24** trillion USD in 2021.
