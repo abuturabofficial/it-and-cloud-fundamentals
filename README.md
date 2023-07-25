@@ -1,5 +1,7 @@
 # Information Technology (IT) and Cloud Fundamentals Specialization
 
+## **Note:** I have moved to zettelkasten note taking method, and this repo will no longer be updated. Currently, I'm not sharing my zettelkasten vault publicly. (Though this specialization was compeleted before moving to the zettelkasten method, and currently need no improvement.)
+
 [This specialization](https://www.coursera.org/specializations/it-cloud-fundamentals) is offered by **IBM** through **Coursera**. This repo contains notes of the specialization. It has the following courses:
 
 1) Introduction to Hardware and Operating Systems
