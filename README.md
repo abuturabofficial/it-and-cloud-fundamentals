@@ -1,6 +1,10 @@
-# Information Technology (IT) and Cloud Fundamentals Specialization
+# **Archival Notice:**
 
-## **Note:** I have moved to zettelkasten note taking method, and this repo will no longer be updated. Currently, I'm not sharing my zettelkasten vault publicly. (Though this specialization was compeleted before moving to the zettelkasten method, and currently need no improvement.)
+I have archived this repo and moved all my notes (new and old) to [wiki.cyberfront.me](https://wiki.cyberfront.me)
+
+![image](https://github.com/user-attachments/assets/49ede395-d2f6-432d-89b7-fc3de4806023)
+
+# Information Technology (IT) and Cloud Fundamentals Specialization
 
 [This specialization](https://www.coursera.org/specializations/it-cloud-fundamentals) is offered by **IBM** through **Coursera**. This repo contains notes of the specialization. It has the following courses:
 
